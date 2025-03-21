@@ -11,7 +11,14 @@
   },
   "dependencies": {
     "@progress/kendo-react-buttons": "^10.0.0",
+    "@progress/kendo-react-dropdowns": "^10.0.0",
+    "@progress/kendo-react-grid": "^10.0.0",
+    "@progress/kendo-react-inputs": "^10.0.0",
     "@progress/kendo-react-layout": "^10.0.0",
+    "@progress/kendo-react-notification": "^10.0.0",
+    "@progress/kendo-react-progressbars": "^10.0.0",
+    "@progress/kendo-svg-icons": "^4.0.0",
+    "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
